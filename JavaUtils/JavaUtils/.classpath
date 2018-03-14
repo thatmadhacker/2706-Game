@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="sphero/bluecove-2.1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="sphero/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="sphero/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="sphero/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="sphero/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="sphero/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="sphero/jogl-all.jar"/>
+	<classpathentry kind="lib" path="sphero/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="sphero/Sphero-Desktop-API-1.5.2b.jar"/>
+	<classpathentry kind="lib" path="joystick/jinput.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="JavaUtils/joystick/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
